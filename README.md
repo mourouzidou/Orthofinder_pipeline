@@ -10,7 +10,7 @@
 
 - Python 3.x
 - `argparse` and `re` libraries
-- orthofinder https://github.com/davidemms/OrthoFinder
+- `orthofinder` https://github.com/davidemms/OrthoFinder
 
 
 ### 1. Selecting Organisms of Interest
